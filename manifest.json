@@ -1,6 +1,6 @@
 {
-  "name": "DRC Block Calculator",
-  "short_name": "Block Calc",
+  "name": "DRC BLOCKWORK ESTIMATOR & SITE TRACKER",
+  "short_name": "Blockwork Estimator",
   "description": "Block Calculator by DRC Ghana – Estimate blocks for your building & monitor your contractor",
   "start_url": "./index.html",
   "scope": "./",

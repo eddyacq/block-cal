@@ -213,3 +213,5 @@ body{
 }
 .dim-chip:active{background:var(--mid);color:var(--white)}
 .dim-chip.used{opacity:.4;text-decoration:line-through}
+
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
